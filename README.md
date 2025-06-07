@@ -49,6 +49,12 @@ LANGCHAIN_PROJECT="your_project_name"
 python Ollama/app.py
 ```
 
+## Screenshots
+
+![Application Output](Ollama/screenshots/app_output.png.png)
+
+*Example output of the LangChain-Ollama integration*
+
 ## Project Structure
 
 ```
@@ -57,6 +63,8 @@ LangChain-Ollama/
 │   └── app.py
 ├── requirements.txt
 ├── .env
+├── screenshots/
+│   └── app_output.png
 └── README.md
 ```
 
