@@ -10,3 +10,5 @@ faiss-cpu
 streamlit
 streamlit-chat
 langchain_groq
+langchain_chroma
+langchain_huggingface
