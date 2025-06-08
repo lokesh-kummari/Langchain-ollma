@@ -9,3 +9,4 @@ langchain_community
 faiss-cpu
 streamlit
 streamlit-chat
+langchain_groq
